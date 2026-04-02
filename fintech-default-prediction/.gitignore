@@ -1,0 +1,10 @@
+# Ignore data files
+data/raw/*.csv
+
+# Ignore saved models and scalers
+models/*.pth
+models/*.pkl
+
+# Ignore Python cache
+__pycache__/
+*.pyc
